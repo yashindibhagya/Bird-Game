@@ -16,4 +16,8 @@ A simple Unity game created in C# where a bird navigates through pipes. The user
 - **Game Engine**: Unity
 - **Programming Language**: C#
 
+## Gameplay Preview 🎥
+[Watch the Gameplay Video](assets/videos/gameplay.mp4)
+
+
 Feel free to explore, improve, and share your thoughts! 🚀
