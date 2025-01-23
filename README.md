@@ -2,6 +2,9 @@
 
 A simple Unity game created in C# where a bird navigates through pipes. The user controls the bird by pressing the space key to make it move upward, while gravity pulls it down naturally. The pipes appear at varying positions, creating a challenging and fun experience.
 
+## Gameplay Preview 🎥
+[Watch the Gameplay Video](Assets/0123.mp4)
+
 ## Features
 - Smooth bird movement with gravity-based physics.
 - Randomized pipe positions for dynamic gameplay.
@@ -15,9 +18,6 @@ A simple Unity game created in C# where a bird navigates through pipes. The user
 ## Tools & Technologies
 - **Game Engine**: Unity
 - **Programming Language**: C#
-
-## Gameplay Preview 🎥
-[Watch the Gameplay Video](Assets/0123.mp4)
 
 
 Feel free to explore, improve, and share your thoughts! 🚀
