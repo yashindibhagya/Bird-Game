@@ -9,8 +9,9 @@ A simple Unity game created in C# where a bird navigates through pipes. The user
 
 ## How to Play
 1. Clone the repository and open it in Unity.
-2. Press the space key to make the bird fly upward.
-3. Avoid hitting the pipes and see how far you can go!
+[Releases](https://github.com/yashindibhagya/Bird-Game/blob/main/Angry%20Bird.exe)
+3. Press the space key to make the bird fly upward.
+4. Avoid hitting the pipes and see how far you can go!
 
 ## Tools & Technologies
 - **Game Engine**: Unity
